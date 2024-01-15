@@ -1,0 +1,3 @@
+.btn {
+    @apply px-10 py-4 rounded-md bg-[#006319] text-white inline-block border-2 border-transparent md:hover:border-[#006319] md:hover:bg-transparent md:hover:text-[#006319] transition-all cursor-pointer;
+}

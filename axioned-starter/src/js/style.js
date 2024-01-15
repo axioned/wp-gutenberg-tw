@@ -1,0 +1,1 @@
+import '../tailwind/global.css';
